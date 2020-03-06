@@ -1,22 +1,13 @@
 # Hello_World
 My first repository
 
-## Table of contents
-
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
-
 ## Project Title
 
-Hello World Sample 
+My first GitHub program
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+Practice using GitHub for BAIS Professional Course
 
 ## How to Run Program 
 
