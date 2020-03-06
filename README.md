@@ -11,7 +11,8 @@ Practice using GitHub for BAIS Professional Course
 
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+How I would run my program and what files are needed to run the program.
+
 ```text
 Hello_World/
 └── 
@@ -24,14 +25,12 @@ Hello_World/
 
 ## Files Used 
 
-- Did you use any datafiles?  
+- Any datafiles were used in this program?  
 - List filenames
-- Where you got them 
-- What is contained within the data files?
+- Data files credit to... 
+- Data files discription
 - Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
-
+- URL links to files 
 
 ## Additional Documentation
 
@@ -40,4 +39,4 @@ No additional documentation at this time
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+Discuss any versioning used especially if any major changes are made.
